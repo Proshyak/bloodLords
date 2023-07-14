@@ -1,0 +1,3 @@
+---
+Aliases: [Blood Lord]
+---

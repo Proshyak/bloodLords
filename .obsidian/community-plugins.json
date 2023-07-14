@@ -4,5 +4,7 @@
   "templater-obsidian",
   "obsidian-admonition",
   "obsidian-style-settings",
-  "breadcrumbs"
+  "breadcrumbs",
+  "obsidian-custom-frames",
+  "obsidian-text-format"
 ]

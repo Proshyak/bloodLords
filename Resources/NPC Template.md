@@ -12,3 +12,4 @@ Level: ""
 Expertese: ""
 Aliases: []
 ---
+# `=this.file.name`

@@ -8,12 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04d069ccfc967cca",
+            "id": "0287c8c736fd0bee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/NPC Template.md",
+                "file": "Factions/Blood Lords.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "384e5f7aadcf1e41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Berline Haldoli.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e3d46b59aeb9757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Greydirge/Graydirge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "203284353322c05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Greydirge/Empty Threshold.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "51521d863a3de9f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "112012f0cdbbe7e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ortagar Stitch-Skull.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,13 +140,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/NPC Template.md",
+                "file": "NPCs/Ortagar Stitch-Skull.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -102,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/NPC Template.md",
+                "file": "NPCs/Ortagar Stitch-Skull.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/NPC Template.md"
+                "file": "NPCs/Ortagar Stitch-Skull.md"
               }
             }
           },
@@ -154,17 +209,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "04d069ccfc967cca",
+  "active": "112012f0cdbbe7e5",
   "lastOpenFiles": [
-    "Factions/Celebrants.md",
-    "Factions/Builders League.md",
-    "Factions/Export Guild.md",
-    "Factions/Tax Collectors Union.md",
-    "Factions/Reanimators.md",
-    "Locations/GebTheCountry.md",
-    "Cathedral of Epiphenomena.md",
-    "Locations/Mechitar/Cathedral of Epiphenomena.md",
-    "NPCs/Gods/Urgathoa.md",
-    "Locations/Mechitar/Mechitar.md"
+    "NPCs/Berline Haldoli.md",
+    "NPCs/Ortagar Stitch-Skull.md",
+    "Locations/Greydirge/Graydirge.md",
+    "Locations/Greydirge/Empty Threshold.md",
+    "Factions/Blood Lords.md",
+    "Locations/Greydirge/Haldoli's Mansion.md",
+    "NPCs/Taf-Gekhta Seven Stomachs.md",
+    "Resources/Berline Haldoli.png",
+    "Resources/NPC Template.md",
+    "Resources/PDFs/Blood_Lords_1_of_6_Zombie_Feast.pdf"
   ]
 }

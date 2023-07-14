@@ -1,1 +1,6 @@
-{}
+{
+  "attachmentFolderPath": "Resources",
+  "showUnsupportedFiles": true,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
+}
