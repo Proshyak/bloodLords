@@ -1,0 +1,443 @@
+{
+  "mapMarkers": [
+    {
+      "id": "ergaghs-map",
+      "lastAccessed": 1689513447035,
+      "markers": [
+        {
+          "id": "ID_282979cac9c8",
+          "type": "mapIcon",
+          "loc": [
+            -1.82421875,
+            3.7890625
+          ],
+          "link": "Egagh-A4",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6821378340365682,
+            0.46770155232849275
+          ],
+          "description": "Broken Paddock",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eadbab0b0b3a",
+          "type": "mapIcon",
+          "loc": [
+            -1.99609375,
+            2.93359375
+          ],
+          "link": "Egagh-A5",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5281293952180028,
+            0.5117676514772158
+          ],
+          "description": "Tool Storeroom",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a28197b2aa9",
+          "type": "mapIcon",
+          "loc": [
+            -1.19921875,
+            4.81640625
+          ],
+          "link": "Egagh-A3",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8670886075949367,
+            0.3074611917876815
+          ],
+          "description": "Empty Zombie Barn",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ea687b895888",
+          "type": "mapIcon",
+          "loc": [
+            -1.140625,
+            3.55859375
+          ],
+          "link": "Egagh-A2",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6406469760900141,
+            0.2924386579869805
+          ],
+          "description": "Zombie Tack Building",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3ae8490a5bc8",
+          "type": "mapIcon",
+          "loc": [
+            -2.69921875,
+            3.96484375
+          ],
+          "link": "Egagh-A6",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7137834036568214,
+            0.6920380570856285
+          ],
+          "description": "Morghosta's stall",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29bb897b4a2b",
+          "type": "mapIcon",
+          "loc": [
+            -3.2265625,
+            4.76953125
+          ],
+          "link": "Egagh-A7",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8586497890295358,
+            0.8272408612919379
+          ],
+          "description": "Occupied Barn",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f9cb593948ea",
+          "type": "mapIcon",
+          "loc": [
+            -2.98046875,
+            2.8828125
+          ],
+          "link": "Egagh-A8",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5189873417721519,
+            0.7641462193289935
+          ],
+          "description": "Veg Garden",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48f94b88a92b",
+          "type": "default",
+          "loc": [
+            -3.32232666015625,
+            2.3984375
+          ],
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Chickpeas\n",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9ab6b89dae9",
+          "type": "default",
+          "loc": [
+            -3.33203125,
+            2.8671875
+          ],
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5161744022503516,
+            0.8542814221331998
+          ],
+          "description": "Caassava",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7899abf9abd8",
+          "type": "default",
+          "loc": [
+            -3.31842041015625,
+            3.28125
+          ],
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sweet Potatoes",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b8aaeac8092b",
+          "type": "default",
+          "loc": [
+            -2.74420166015625,
+            3.24609375
+          ],
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Sugarcane",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daca8aeb08fa",
+          "type": "default",
+          "loc": [
+            -2.75592041015625,
+            2.8671875
+          ],
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Rice",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aca7a881a4a",
+          "type": "default",
+          "loc": [
+            -2.77154541015625,
+            2.41796875
+          ],
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Beets",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b83b8a3b185b",
+          "type": "Trap!",
+          "loc": [
+            -1.203125,
+            0.43359375
+          ],
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.07805907172995781,
+            0.3084626940410616
+          ],
+          "description": "Trapped Gate (Herolab)",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa4baafaf8f8",
+          "type": "mapIcon",
+          "loc": [
+            -1.33203125,
+            1.9453125
+          ],
+          "link": "Egagh-A9",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.350210970464135,
+            0.3415122684026039
+          ],
+          "description": "Loading Yard",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78ba5a4a0959",
+          "type": "mapIcon",
+          "loc": [
+            -1.12109375,
+            1.35546875
+          ],
+          "link": "Egagh-A10",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2440225035161744,
+            0.28743114672008013
+          ],
+          "description": "Silos",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8918e85a8a8b",
+          "type": "mapIcon",
+          "loc": [
+            -1.11328125,
+            0.6875
+          ],
+          "link": "Egagh-A11",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.12376933895921238,
+            0.28542814221331997
+          ],
+          "description": "Gate",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a2a08c909eb",
+          "type": "mapIcon",
+          "loc": [
+            -3.03515625,
+            1.359375
+          ],
+          "link": "Egagh-A12",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.24472573839662448,
+            0.7781672508763144
+          ],
+          "description": "Hearth Chamber",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aad8d809a919",
+          "type": "mapIcon",
+          "loc": [
+            -2.21484375,
+            0.75390625
+          ],
+          "link": "Egagh-A13",
+          "layer": "%5B%5BOld%20Ergtagh.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.13572433192686356,
+            0.5678517776664997
+          ],
+          "description": "Well Chamber",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "mapIcon",
+      "iconName": "dice-d20",
+      "color": "#9d808e",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Location"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Trap!",
+      "iconName": "exclamation",
+      "color": "#b23434",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.7.1",
+  "version": {
+    "major": 5,
+    "minor": 7,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {},
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

@@ -1,0 +1,14 @@
+---
+---
+>A low wooden fence, fallen in many places and with all its gates thrown open, once enclosed a wide dirt yard. The dirt is trampled with an unsettling amount of blood and gore. Various parts of roughly five corpses lie strewn about, most of them trampled into mangled flesh and bones.
+
+This yard was an enclosed space for the chargehands to practice tending and controlling zombie workers and animals. It was wrecked by roaming zombies, including Mosghuta (see below). The five corpses are a mix of destroyed zombies and husk zombie chargehands, though the extensive damage and intermingling of their scattered body parts makes them indistinguishable. There are no weapons in sight; these chargehands were trying to control Mosghuta, not fighting intruders. 
+
+## About Morghosta:
+All animals at Old Ergagh’s Farm are zombies that work the farm and are not raised as food. A farmer hoping to curry favor with Berline as a Blood Lord gave her Mosghuta, thinking she would keep the cow alive at her villa in Graydirge. Instead, Berline killed and reanimated the cow, creating the strongest worker on Old Ergagh’s Farm, tireless in hauling and tilling. For some reason, the farm’s other zombie animals gravitate toward Mosghuta, allowing the chargehands to control a much larger group just by commanding the boss cow. The other zombies don’t attack Mosghuta under any circumstances, but she isn’t able to give them commands. 
+## Physical Description
+Mosghuta is large, even for her breed. Her hide is mottled red and white, though much of her skin and flesh are missing. The chargehands work Mosghuta hard; even under the care of the corpse tenders, much of her body is more bone than flesh, including half of her face. Her flesh and bones are studded with iron rings the chargehands use to attach her harness or otherwise secure her with ropes and thick leather straps, but attempts to restrain her are generally unsuccessful unless she is already docile. She has one horn left, as the other broke off when she skewered Brahdek against the wall in area A2. A gleaming scythe with a dark shaft and leather-bound grips is embedded deeply in Mosghuta’s side, just above her shoulder, so deep that the blade pokes through her ribs on her other side. She doesn’t seem to notice, let alone mind. 
+
+## Morghosta Actions
+Mosghuta attacks anything that draws her attention, except for other zombies. She leaves other zombies alone as long as they leave her alone. If she loses sight of her prey, she begins a slow, ponderous search in whatever direction she last saw something she could
+kill, but ultimately circles back to this yard.

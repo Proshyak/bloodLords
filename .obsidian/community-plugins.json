@@ -1,10 +1,12 @@
 [
   "table-editor-obsidian",
-  "dataview",
-  "templater-obsidian",
   "obsidian-admonition",
-  "obsidian-style-settings",
+  "aprils-automatic-timelines",
   "breadcrumbs",
   "obsidian-custom-frames",
+  "obsidian-leaflet-plugin",
+  "obsidian-style-settings",
+  "dataview",
+  "templater-obsidian",
   "obsidian-text-format"
 ]

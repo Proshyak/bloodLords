@@ -4,71 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "e077576ac6eb5823",
+        "id": "8915002165eec4c7",
         "type": "tabs",
         "children": [
           {
-            "id": "0287c8c736fd0bee",
+            "id": "758bfff9daaa2081",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions/Blood Lords.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "384e5f7aadcf1e41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Berline Haldoli.md",
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "9e3d46b59aeb9757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Greydirge/Graydirge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "203284353322c05d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Greydirge/Empty Threshold.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "51521d863a3de9f3",
+        "id": "6c9c0014cde04e70",
         "type": "tabs",
         "children": [
           {
-            "id": "112012f0cdbbe7e5",
+            "id": "273196192eb4a423",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Ortagar Stitch-Skull.md",
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c09d221a0d8d68b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ortagar Stitch-Skull.md",
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ortagar Stitch-Skull.md",
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +155,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ortagar Stitch-Skull.md"
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md"
               }
             }
           },
           {
-            "id": "4c2b25aaa2635c5d",
+            "id": "4129dca5e757635c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0e4fba857fef1322",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -193,14 +176,15 @@
             }
           },
           {
-            "id": "cac887ef5d84fd0d",
+            "id": "a923f5ab04cd9f71",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -209,17 +193,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "112012f0cdbbe7e5",
+  "active": "273196192eb4a423",
   "lastOpenFiles": [
-    "NPCs/Berline Haldoli.md",
-    "NPCs/Ortagar Stitch-Skull.md",
-    "Locations/Greydirge/Graydirge.md",
-    "Locations/Greydirge/Empty Threshold.md",
-    "Factions/Blood Lords.md",
-    "Locations/Greydirge/Haldoli's Mansion.md",
-    "NPCs/Taf-Gekhta Seven Stomachs.md",
-    "Resources/Berline Haldoli.png",
-    "Resources/NPC Template.md",
-    "Resources/PDFs/Blood_Lords_1_of_6_Zombie_Feast.pdf"
+    "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A12.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A11.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A10.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A8.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A7.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A6.md"
   ]
 }

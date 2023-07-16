@@ -1,1 +1,19 @@
-{}
+{
+  "table-editor-obsidian:table-control-bar": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "obsidian-text-format:text-format-merge-line": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ]
+}

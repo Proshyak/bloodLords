@@ -22,7 +22,7 @@ Aliases: ["Berline"]
  > |---|---|
   > |Ancestry | Halfling |
   > | Sex/Gender | F/F |
-  > |Age | ? |
+  > |Age | 55 |
   > |Alignment: | LE |
   > | Religion | Urgathoa |
   > | Home | [[Mechitar]] |
