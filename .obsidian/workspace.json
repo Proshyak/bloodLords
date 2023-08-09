@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70d18826017aeb13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md"
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md"
               }
             }
           },
@@ -193,17 +205,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "273196192eb4a423",
+  "active": "758bfff9daaa2081",
   "lastOpenFiles": [
-    "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
+    "Untitled.md",
     "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
+    "NPCs/Berline Haldoli.md",
+    "Resources/Images/Berline Haldoli.png",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
     "Locations/Greydirge/Ergaghs Farm/Egagh-A12.md",
     "Locations/Greydirge/Ergaghs Farm/Egagh-A11.md",
     "Locations/Greydirge/Ergaghs Farm/Egagh-A10.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A8.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A7.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A6.md"
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md"
   ]
 }
