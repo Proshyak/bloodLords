@@ -1,5 +1,4 @@
 [
-  "table-editor-obsidian",
   "obsidian-admonition",
   "aprils-automatic-timelines",
   "breadcrumbs",
@@ -8,5 +7,6 @@
   "obsidian-style-settings",
   "dataview",
   "templater-obsidian",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "table-editor-obsidian"
 ]

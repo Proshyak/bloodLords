@@ -18,50 +18,39 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "70d18826017aeb13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
       {
-        "id": "6c9c0014cde04e70",
+        "id": "08194f042eeaa48c",
         "type": "tabs",
         "children": [
           {
-            "id": "273196192eb4a423",
+            "id": "a029c418af174696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
+                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c09d221a0d8d68b2",
+            "id": "a49cbde6fb791f15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
+                "file": "PC XP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -127,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
+                "file": "PC XP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
+                "file": "PC XP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md"
+                "file": "PC XP.md"
               }
             }
           },
@@ -205,17 +194,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "758bfff9daaa2081",
+  "active": "a49cbde6fb791f15",
   "lastOpenFiles": [
-    "Untitled.md",
     "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
+    "PC XP.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A11.md",
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md",
+    "Untitled.md",
     "NPCs/Berline Haldoli.md",
     "Resources/Images/Berline Haldoli.png",
     "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
     "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A12.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A11.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A10.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md"
+    "Locations/Greydirge/Ergaghs Farm/Egagh-A12.md"
   ]
 }
