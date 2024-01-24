@@ -1,0 +1,1 @@
+Add a [Camoflague suit](https://2e.aonprd.com/Equipment.aspx?ID=1201) to the loot in the cairn 

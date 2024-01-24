@@ -1,85 +1,39 @@
 {
   "main": {
-    "id": "e0018b23f2ee136f",
+    "id": "850d16f0a6e2f2fe",
     "type": "split",
     "children": [
       {
-        "id": "d706c620dc4660eb",
+        "id": "c62274e9bee45619",
         "type": "tabs",
         "children": [
           {
-            "id": "8ff77df5f1324fca",
+            "id": "5161da45fd8194fa",
             "type": "leaf",
             "state": {
-<<<<<<< HEAD
-              "type": "empty",
-              "state": {}
-=======
               "type": "markdown",
               "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
-                "mode": "preview",
-
+                "file": "Next session(s).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
-      },
-      {
-        "id": "08194f042eeaa48c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a029c418af174696",
-        "id": "4a2c17a20184046f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "214fa7dc7946e398",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md",
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A12.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a49cbde6fb791f15",
-            "id": "c84f530332b82f4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PC XP.md",
-                "file": "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> 6125efd6b55180820b6e736cfa35e5d21c8fd120
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7b7573c470e78351",
+    "id": "7470afe0fbd84e2a",
     "type": "split",
     "children": [
       {
-        "id": "fa45e30e1013429b",
+        "id": "08adc2df5c098a7a",
         "type": "tabs",
         "children": [
           {
-            "id": "a04417d67cab5a70",
+            "id": "484079adf2b525b2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,7 +43,7 @@
             }
           },
           {
-            "id": "0306d2c048d1b360",
+            "id": "4dfd69723dbbbce5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,15 +58,7 @@
             }
           },
           {
-            "id": "94080156534a80e6",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "bf688a82eec882a9",
+            "id": "41b8078ba6d8c2de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -126,50 +72,44 @@
     "width": 300
   },
   "right": {
-    "id": "a8f11f071fc060e0",
+    "id": "2ab60719247170cc",
     "type": "split",
     "children": [
       {
-        "id": "f5599cc12b6bbbee",
+        "id": "a970924b8e39aee9",
         "type": "tabs",
         "children": [
           {
-            "id": "17f6324bc27c96b0",
+            "id": "c7cc71f7b35ceb6b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "PC XP.md",
->>>>>>> 6125efd6b55180820b6e736cfa35e5d21c8fd120
+                "file": "Next session(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7ee4d881c0987804",
+            "id": "731528e7b94f6e32",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "PC XP.md",
->>>>>>> 6125efd6b55180820b6e736cfa35e5d21c8fd120
+                "file": "Next session(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "706a1e21f8086923",
+            "id": "1a5de6d1573cff7f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,29 +120,17 @@
             }
           },
           {
-            "id": "b5839cbbb2bd4b94",
+            "id": "de1f0a344c5d6236",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-                "file": "PC XP.md"
+                "file": "Next session(s).md"
               }
->>>>>>> 6125efd6b55180820b6e736cfa35e5d21c8fd120
             }
           },
           {
-            "id": "4129dca5e757635c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "0e4fba857fef1322",
+            "id": "8631cc9a5b5aef78",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -210,7 +138,7 @@
             }
           },
           {
-            "id": "a923f5ab04cd9f71",
+            "id": "58c47ca94059bb4c",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -218,11 +146,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,45 +161,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-<<<<<<< HEAD
-  "active": "8ff77df5f1324fca",
-=======
-  "active": "a49cbde6fb791f15",
-  "lastOpenFiles": [
-    "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
-    "PC XP.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A11.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md",
-    "Untitled.md",
-    "NPCs/Berline Haldoli.md",
-    "Resources/Images/Berline Haldoli.png",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A12.md"
-  "active": "ab2c3a87560ec8b0",
->>>>>>> 6125efd6b55180820b6e736cfa35e5d21c8fd120
-  "lastOpenFiles": [
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A10.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A9.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh's Map.md",
-    "Locations/Greydirge/Gangs.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A12.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A11.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A13.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A8.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A6.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A7.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A2.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-A3.md",
-    "Locations/Greydirge/Ergaghs Farm/Egagh-14.md",
-    "Untitled.md",
-    "Locations/Greydirge/Empty Threshold.md",
-    "NPCs/Berline Haldoli.md",
-    "Resources/Images/Berline Haldoli.png"
-  ]
+  "active": "5161da45fd8194fa",
+  "lastOpenFiles": []
 }
