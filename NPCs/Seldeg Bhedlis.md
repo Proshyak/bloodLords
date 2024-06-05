@@ -1,0 +1,1 @@
+https://2e.aonprd.com/Monsters.aspx?ID=2431&PWL=true

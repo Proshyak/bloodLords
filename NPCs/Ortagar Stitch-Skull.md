@@ -11,31 +11,30 @@ Level: "?"
 Expertese: "Reanimation"
 Aliases: ["Berline"]
 ---
-<span stylle=align:right;>Creature 6</span>
+<span stylle=align:right;>Creature 4</span>
 # `=this.file.name`
-#LN #Male #Human #Priest_of_Zon-Kuthon #Zon_Kuthon 4
+#LN #Male #Human #Priest_of_Zon-Kuthon #Zon_Kuthon 
 
 > [!infobox]
-> ![[Berline Haldoli.png|cover hsmall]]
-> ###### [[Blood Lords|Blood Lord]]
+>> ###### Mayor of Greydirge
 > | Type | stat |
  > |---|---|
-  > |Ancestry | Halfling |
-  > | Sex/Gender | F/F |
+  > |Ancestry | Ghoul |
+  > | Sex/Gender | M/M |
   > |Age | ? |
   > |Alignment: | LE |
-  > | Religion | Urgathoa |
-  > | Home | [[Mechitar]] |
-  > |Weasly Status | Plotting |
+  > | Religion | Zon-Kuthon |
+  > | Home | [[Graydirge]] |
+  > |Weasly Status | Surviving |
   > ######  Relationship Infomation
   > | Type | info |
   > |--- |---|
   > | Family  | None anymore |
-  > | Friends | [[Ortagar Stitch-Skull]] |
+  > | Friends | [[Berline Haldoli|Berline]] |
   > | Aquantances | [[Taf-Gekhta Seven Stomachs]] |
-  > | Base of Operations | [[Haldoli's Mansion]] |
+  > | Base of Operations | [[Temple of Zon-Kuthon]] |
 
-<iframe width=65% height=700px src="https://2e.aonprd.com/NPCs.aspx?ID=929&Elite=true"></iframe>
+<iframe width=65% height=700px src="https://herolab.online/muCC7Lpg/characters/pNN6RDRL/1/play/character?side=stage"></iframe>
 
 # About
 The head priest of the Empty Threshold, Graydirge’s temple to Zon-Kuthon. 

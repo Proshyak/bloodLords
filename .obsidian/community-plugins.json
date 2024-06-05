@@ -4,9 +4,10 @@
   "breadcrumbs",
   "obsidian-custom-frames",
   "obsidian-leaflet-plugin",
-  "obsidian-style-settings",
   "dataview",
   "templater-obsidian",
   "obsidian-text-format",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-style-settings",
+  "obsidian-charts"
 ]
